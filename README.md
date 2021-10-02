@@ -3,7 +3,7 @@
 <h3><b>BREVE DESCRIÇÃO DO PROJETO</b></h3>
 <br>
 
-- Projeto que tem como proposta principal a de simular venda e compra de passagens através de 2 tipos de perfis diferentes: vendedor ou viajante. Porém, há outras funcionalidades disponíveis, como explicitarei mais abaixo, com os prints*;
+- Projeto que tem como proposta principal a de simular venda e compra de passagens através de 2 tipos de perfis diferentes: vendedor ou viajante. Porém, há outras funcionalidades disponíveis, como explicitarei mais abaixo, com os prints;
 - Desenvolvido de modo que a interação aconteça somente com o terminal;
 - Os bancos de dados utilizados são arquivos .txt;
 - Há 1 arquivo .txt constando números fictícios a respeito de valores de passagens e distâncias entre regiões do Brasil.
