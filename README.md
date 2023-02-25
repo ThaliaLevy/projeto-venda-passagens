@@ -8,6 +8,9 @@
 - Os bancos de dados utilizados são arquivos .txt;
 - Há 1 arquivo .txt constando números fictícios a respeito de valores de passagens e distâncias entre regiões do Brasil.
 
+Projeto do módulo 02 do curso de formação fullstack da Step Computer Academy. <br>
+Repositório com exercícios deste módulo: https://github.com/ThaliaLevy/step-computer-academy-modulo02/tree/master-branch
+
 <br>
 <h3><b>INICIANDO O PROJETO</b></h3>
 <br>
